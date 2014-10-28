@@ -3,7 +3,7 @@ php contracts
 
 A curated list of mature interfaces to build components on.
 
-Interfaces are still not very popular in the php-world. That is sad. They give you an absolute level of abstraction. Good interfaces behave like a contract, like a promise, like a documentation. They don't have a opinion about a concrete implementation. So you can use interfaces while building huge applications to decouple different parts and hopefully gain a much better level of reusability, interchangeability and maintainability.
+Interfaces are still not very popular in the php-world. That is sad. Interfaces give you an absolute level of abstraction. Good interfaces behave like a contract, like a promise, like a documentation. They don't have a opinion about a concrete implementation. So you can use interfaces while building huge applications to decouple different parts and hopefully gain a much better level of reusability, interchangeability and maintainability.
 
 Rules:
 
