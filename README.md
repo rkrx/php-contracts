@@ -1,4 +1,4 @@
-php-contracts
+php contracts
 =============
 
 A curated list of mature interfaces to build components on.
