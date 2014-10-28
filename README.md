@@ -23,10 +23,12 @@ Rules:
 | [container-interop/container-interop](https://github.com/container-interop/container-interop) | "container-interop/container-interop": "1.0.0" | [Acclimate](https://github.com/jeremeamia/acclimate-container), [dcp-di](https://github.com/estelsmith/dcp-di), [Mouf](http://mouf-php.com/), [Njasm Container](https://github.com/njasm/container), [PHP-DI](http://php-di.org/), [PimpleInterop](https://github.com/moufmouf/pimple-interop), [XStatic](https://github.com/jeremeamia/xstatic) |
 
 
+
 ## Unstable
 
 | Project | Composer | Available components |
 |---------|--------|----------|----------------------|
+| [adammbalogh/key-value-store](https://github.com/adammbalogh/key-value-store) | "adammbalogh/key-value-store": "0.5.2" | [Various Adapters](https://github.com/adammbalogh/key-value-store#adapters) |
 | [psr/http-message](https://github.com/php-fig/http-message) | "psr/http-message": "1.0.*@dev" | |
 | [psr/cache](https://github.com/php-fig/psr-6) | | |
 
