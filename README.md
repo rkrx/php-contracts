@@ -61,7 +61,7 @@ Rules:
 
 [Project homepage](https://github.com/php-fig/log)
 
-### Available components
+**Available components**
 
 * [Monolog](https://github.com/Seldaek/monolog)
 * [KLogger](https://github.com/katzgrau/KLogger)
@@ -70,7 +70,7 @@ Rules:
 
 [Project homepage](https://github.com/container-interop/container-interop)
 
-### Available components
+**Available components**
 
 * [Acclimate](https://github.com/jeremeamia/acclimate-container)
 * [dcp-di](https://github.com/estelsmith/dcp-di)
@@ -86,6 +86,6 @@ Rules:
 
 [Project homepage](https://github.com/adammbalogh/key-value-store)
 
-### Available components
+**Available components**
 
 * [adammbalogh/key-value-store (Various Adapters)](https://github.com/adammbalogh/key-value-store#adapters)
