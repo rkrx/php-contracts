@@ -17,20 +17,21 @@ Rules:
 
 ## Stable
 
-| Project | Composer | Available components |
-|---------|--------|----------|----------------------|
-| [psr/log](https://github.com/php-fig/log) | "psr/log": "1.0.0" | [list](components/psr.log.md) |
-| [container-interop/container-interop](https://github.com/container-interop/container-interop) | "container-interop/container-interop": "1.0.0" | [list](components/container-interop.container-interop.md) |
+(Klick on an item to get a list of available implementations)
 
+| Project | Composer |
+|---------|---------|
+| [psr/log](components/psr.log.md) | "psr/log": "1.0.0" |
+| [container-interop/container-interop](components/container-interop.container-interop.md) | "container-interop/container-interop": "1.0.0" |
 
 
 ## Unstable
 
-| Project | Composer | Available components | Status |
-|---------|--------|----------|----------------------|
-| [adammbalogh/key-value-store](https://github.com/adammbalogh/key-value-store) | "adammbalogh/key-value-store": "0.5.2" | [list](components/adammbalogh.key-value-store.md) | Unstable |
-| [psr/http-message](https://github.com/php-fig/http-message) | "psr/http-message": "1.0.*@dev" | | Unstable |
-| [psr/cache](https://github.com/php-fig/psr-6) | | | Unstable |
+| Project | Composer | Status |
+|---------|----------|--------|
+| [adammbalogh/key-value-store](components/adammbalogh.key-value-store.md) | "adammbalogh/key-value-store": "0.5.2" | Unstable |
+| [psr/http-message](https://github.com/php-fig/http-message) | "psr/http-message": "1.0.*@dev" | Unstable |
+| [psr/cache](https://github.com/php-fig/psr-6) | | Unstable |
 
 
 ## Wishlist
