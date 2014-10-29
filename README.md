@@ -56,3 +56,36 @@ Rules:
 * Template-Engines
 * Url-Manipulation
 * Validation
+
+## psr/log
+
+[Project homepage](https://github.com/php-fig/log)
+
+### Available components
+
+* [Monolog](https://github.com/Seldaek/monolog)
+* [KLogger](https://github.com/katzgrau/KLogger)
+
+## container-interop/container-interop
+
+[Project homepage](https://github.com/container-interop/container-interop)
+
+### Available components
+
+* [Acclimate](https://github.com/jeremeamia/acclimate-container)
+* [dcp-di](https://github.com/estelsmith/dcp-di)
+* [Mouf](http://mouf-php.com/)
+* [Njasm Container](https://github.com/njasm/container)
+* [PHP-DI](http://php-di.org/)
+* [PimpleInterop](https://github.com/moufmouf/pimple-interop)
+* [squirt](https://github.com/phlogisticfugu/squirt)
+* [SUDA](https://github.com/guide42/suda)
+* [XStatic](https://github.com/jeremeamia/xstatic)
+
+## adammbalogh/key-value-store
+
+[Project homepage](https://github.com/adammbalogh/key-value-store)
+
+### Available components
+
+* [adammbalogh/key-value-store (Various Adapters)](https://github.com/adammbalogh/key-value-store#adapters)
