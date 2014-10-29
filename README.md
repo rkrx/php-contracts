@@ -21,15 +21,15 @@ Rules:
 
 | Project | Composer |
 |---------|---------|
-| [psr/log](components/psr.log.md) | "psr/log": "1.0.0" |
-| [container-interop/container-interop](components/container-interop.container-interop.md) | "container-interop/container-interop": "1.0.0" |
+| [psr/log](#psrlog) | "psr/log": "1.0.0" |
+| [container-interop/container-interop](#container-interopcontainer-interop) | "container-interop/container-interop": "1.0.0" |
 
 
 ## Unstable
 
 | Project | Composer | Status |
 |---------|----------|--------|
-| [adammbalogh/key-value-store](components/adammbalogh.key-value-store.md) | "adammbalogh/key-value-store": "0.5.2" | Unstable |
+| [adammbalogh/key-value-store](#adammbaloghkey-value-store) | "adammbalogh/key-value-store": "0.5.2" | Unstable |
 | [psr/http-message](https://github.com/php-fig/http-message) | "psr/http-message": "1.0.*@dev" | Unstable |
 | [psr/cache](https://github.com/php-fig/psr-6) | | Unstable |
 
