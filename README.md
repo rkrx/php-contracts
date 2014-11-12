@@ -33,7 +33,7 @@ Rules:
 | [adammbalogh/key-value-store](#adammbaloghkey-value-store) | "adammbalogh/key-value-store": "0.5.2" | Draft |
 | [psr/http-message](https://github.com/php-fig/http-message) | "psr/http-message": "1.0.*@dev" | Draft |
 | [psr/cache](https://github.com/php-fig/psr-6) | | Draft |
-| [rkr/php-ioc-contract](https://packagist.org/packages/rkr/php-ioc-contract) | | Draft |
+| [rkr/php-ioc-contract](https://packagist.org/packages/rkr/php-ioc-contract) | "rkr/php-di-ioc-adapter" "~0.0.1@stable" | Draft |
 
 
 ## Wishlist
