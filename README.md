@@ -9,7 +9,7 @@ Rules:
 
 * A project must only consist of interfaces that have the character of a contract.
 * The project must ship a good documentation.
-* The project must not include an implementation.
+* The project ~~must not~~ could include one or more implementations.
 * The project's documentation must use englisch language.
 * The interface(s) must comply with [PSR-1](http://www.php-fig.org/psr/psr-1/) and [PSR-2](http://www.php-fig.org/psr/psr-2/).
 * There should exist implementations that show the practical benefit of the offered interface(s).
@@ -26,13 +26,14 @@ Rules:
 | [container-interop/container-interop](#container-interopcontainer-interop) | "container-interop/container-interop": "1.0.0" |
 
 
-## Unstable
+## Drafts
 
 | Project | Composer | Status |
 |---------|----------|--------|
-| [adammbalogh/key-value-store](#adammbaloghkey-value-store) | "adammbalogh/key-value-store": "0.5.2" | Unstable |
-| [psr/http-message](https://github.com/php-fig/http-message) | "psr/http-message": "1.0.*@dev" | Unstable |
-| [psr/cache](https://github.com/php-fig/psr-6) | | Unstable |
+| [adammbalogh/key-value-store](#adammbaloghkey-value-store) | "adammbalogh/key-value-store": "0.5.2" | Draft |
+| [psr/http-message](https://github.com/php-fig/http-message) | "psr/http-message": "1.0.*@dev" | Draft |
+| [psr/cache](https://github.com/php-fig/psr-6) | | Draft |
+| [rkr/php-ioc-contract](https://packagist.org/packages/rkr/php-ioc-contract) | | Draft |
 
 
 ## Wishlist
