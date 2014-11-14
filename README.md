@@ -31,11 +31,14 @@ Rules:
 | Project | Composer | Status |
 |---------|----------|--------|
 | [adammbalogh/key-value-store](#adammbaloghkey-value-store) | "adammbalogh/key-value-store": "0.5.2" | Draft |
-| [illuminate/contracts](#illuminatecontracts) | "illuminate/contracts": "dev-master" | Draft |
 | [psr/http-message](https://github.com/php-fig/http-message) | "psr/http-message": "1.0.*@dev" | Draft |
 | [psr/cache](https://github.com/php-fig/psr-6) | | Draft |
 | [rkr/php-ioc-contract](https://packagist.org/packages/rkr/php-ioc-contract) | "rkr/php-di-ioc-adapter": "~0.0.1@stable" | Draft |
 
+## Noteworthy projects
+
+* [illuminate/contracts](https://github.com/laravel/framework)
+* [HttpKernelInterface](https://github.com/symfony/symfony/blob/master/src/Symfony/Component/HttpKernel/HttpKernelInterface.php)
 
 ## Wishlist
 
@@ -92,11 +95,3 @@ Rules:
 **Available components**
 
 * [adammbalogh/key-value-store (Various Adapters)](https://github.com/adammbalogh/key-value-store#adapters)
-
-## illuminate/contracts
-
-[Project homepage](https://github.com/adammbalogh/key-value-store)
-
-**Available components**
-
-* [Upcoming laravel 5](https://github.com/laravel/framework)
