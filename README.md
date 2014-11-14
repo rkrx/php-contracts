@@ -11,7 +11,7 @@ Rules:
 * The project must ship a good documentation.
 * The project ~~must not~~ could include one or more implementations.
 * The project's documentation must use englisch language.
-* The interface(s) must comply with [PSR-1](http://www.php-fig.org/psr/psr-1/) and [PSR-2](http://www.php-fig.org/psr/psr-2/).
+* The interface(s) ~~must~~ should comply with [PSR-1](http://www.php-fig.org/psr/psr-1/) and [PSR-2](http://www.php-fig.org/psr/psr-2/).
 * There should exist implementations that show the practical benefit of the offered interface(s).
 * The project should be available through packagist.
 
