@@ -37,7 +37,7 @@ Rules:
 
 ## Noteworthy projects
 
-* [illuminate/contracts](https://github.com/laravel/framework)
+* [illuminate/contracts](https://github.com/illuminate/contracts)
 * [HttpKernelInterface](https://github.com/symfony/symfony/blob/master/src/Symfony/Component/HttpKernel/HttpKernelInterface.php)
 
 ## Wishlist
