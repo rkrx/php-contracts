@@ -21,19 +21,20 @@ Rules:
 
 (Click on an item to get a list of available implementations)
 
-| Project | Composer |
+| Project | Packagist |
 |---------|---------|
-| [psr/log](#psrlog) | "psr/log": "1.0.0" |
-| [container-interop/container-interop](#container-interopcontainer-interop) | "container-interop/container-interop": "1.0.0" |
+| [psr/log](#psrlog) | [![Latest Stable](http://img.shields.io/packagist/v/psr/log.svg)](https://packagist.org/packages/psr/log) |
+| [container-interop/container-interop](#container-interopcontainer-interop) | [![Latest Stable](http://img.shields.io/packagist/v/container-interop/container-interop.svg)](https://packagist.org/packages/container-interop/container-interop) |
+| [flamecore/observer](https://github.com/FlameCore/Observer) | [![Latest Stable](http://img.shields.io/packagist/v/FlameCore/Observer.svg)](https://packagist.org/packages/flamecore/observer) |
 
 ## Drafts
 
 | Project | Composer | Status |
 |---------|----------|--------|
-| [adammbalogh/key-value-store](#adammbaloghkey-value-store) | "adammbalogh/key-value-store": "0.5.2" | Draft |
-| [psr/http-message](https://github.com/php-fig/http-message) | "psr/http-message": "1.0.*@dev" | Draft |
+| [adammbalogh/key-value-store](#adammbaloghkey-value-store) | [![Latest Stable](http://img.shields.io/packagist/v/adammbalogh/key-value-store.svg)](https://packagist.org/packages/adammbalogh/key-value-store) | Draft |
+| [psr/http-message](https://github.com/php-fig/http-message) | [![Latest Stable](http://img.shields.io/packagist/v/psr/http-message.svg)](https://packagist.org/packages/psr/http-message) | Draft |
 | [psr/cache](https://github.com/php-fig/psr-6) | | Draft |
-| [rkr/php-ioc-contract](https://packagist.org/packages/rkr/php-ioc-contract) | "rkr/php-di-ioc-adapter": "~0.0.1@stable" | Draft |
+| [rkr/php-ioc-contract](https://packagist.org/packages/rkr/php-ioc-contract) | [![Latest Stable](http://img.shields.io/packagist/v/rkr/php-di-ioc-adapter.svg)](https://packagist.org/packages/rkr/php-di-ioc-adapter) | Draft |
 
 ## Noteworthy projects
 
