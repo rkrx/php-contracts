@@ -29,7 +29,7 @@ Rules:
 
 ## Drafts
 
-| Project | Composer | Status |
+| Project | Packagist | Status |
 |---------|----------|--------|
 | [adammbalogh/key-value-store](#adammbaloghkey-value-store) | [![Latest Stable](http://img.shields.io/packagist/v/adammbalogh/key-value-store.svg)](https://packagist.org/packages/adammbalogh/key-value-store) | Draft |
 | [psr/http-message](https://github.com/php-fig/http-message) | [![Latest Stable](http://img.shields.io/packagist/v/psr/http-message.svg)](https://packagist.org/packages/psr/http-message) | Draft |
