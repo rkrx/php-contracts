@@ -25,7 +25,7 @@ Rules:
 |---------|---------|
 | [psr/log](#psrlog) | [![Latest Stable](http://img.shields.io/packagist/v/psr/log.svg)](https://packagist.org/packages/psr/log) |
 | [container-interop/container-interop](#container-interopcontainer-interop) | [![Latest Stable](http://img.shields.io/packagist/v/container-interop/container-interop.svg)](https://packagist.org/packages/container-interop/container-interop) |
-| [flamecore/observer](https://github.com/FlameCore/Observer) | [![Latest Stable](http://img.shields.io/packagist/v/FlameCore/Observer.svg)](https://packagist.org/packages/flamecore/observer) |
+| [flamecore/event-observer](https://github.com/FlameCore/EventObserver) | [![Latest Stable](http://img.shields.io/packagist/v/FlameCore/EventObserver.svg)](https://packagist.org/packages/flamecore/event-observer) |
 
 ## Drafts
 
