@@ -38,8 +38,9 @@ Rules:
 
 ## Noteworthy projects
 
-* [illuminate/contracts](https://github.com/illuminate/contracts)
+* [illuminate/contracts](https://github.com/illuminate/contracts) - Subtree split of the Illuminate Contracts component (see laravel/framework)
 * [HttpKernelInterface](https://github.com/symfony/symfony/blob/master/src/Symfony/Component/HttpKernel/HttpKernelInterface.php)
+* [FlySystem](http://flysystem.thephpleague.com) - Flysystem is a filesystem abstraction which allows you to easily swap out a local filesystem for a remote one. Reducing technical debt and chance of vendor lock-in. 
 
 ## Wishlist
 
