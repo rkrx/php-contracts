@@ -33,7 +33,7 @@ Rules:
 |---------|----------|--------|
 | [adammbalogh/key-value-store](#adammbaloghkey-value-store) | [![Latest Stable](http://img.shields.io/packagist/v/adammbalogh/key-value-store.svg)](https://packagist.org/packages/adammbalogh/key-value-store) | Draft |
 | [psr/http-message](https://github.com/php-fig/http-message) | [![Latest Stable](http://img.shields.io/packagist/v/psr/http-message.svg)](https://packagist.org/packages/psr/http-message) | Draft |
-| [psr/cache](https://github.com/php-fig/psr-6) | | Draft |
+| [psr/cache](https://github.com/php-fig/fig-standards/blob/master/proposed/cache.md) | | Draft |
 | [rkr/php-ioc-contract](https://packagist.org/packages/rkr/php-ioc-contract) | [![Latest Stable](http://img.shields.io/packagist/v/rkr/php-di-ioc-adapter.svg)](https://packagist.org/packages/rkr/php-di-ioc-adapter) | Draft |
 
 ## Noteworthy projects
