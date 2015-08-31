@@ -10,14 +10,14 @@ interchangeability and maintainability.
 
 **Rules:**
 
-* A project must only consist of interfaces that have the character of a contract.
-* The project must ship a good documentation.
-* The project could include one or more implementations.
-* The project's documentation must use english language.
-* The interface(s) must comply with [PSR-1](http://www.php-fig.org/psr/psr-1/).
-* The interface(s) should comply with [PSR-2](http://www.php-fig.org/psr/psr-2/).
-* There should exist implementations that show the practical benefit of the offered interface(s).
-* The project should be available through [Packagist](https://packagist.org/).
+1. A project must only consist of interfaces that have the character of a contract.
+2. The project must ship a good documentation.
+3. The project could include one or more implementations.
+4. The project's documentation must use english language.
+5. The interface(s) must comply with [PSR-1](http://www.php-fig.org/psr/psr-1/).
+6. The interface(s) should comply with [PSR-2](http://www.php-fig.org/psr/psr-2/).
+7. There should exist implementations that show the practical benefit of the offered interface(s).
+8. The project should be available through [Packagist](https://packagist.org/).
 
 
 ## Stable
