@@ -88,6 +88,7 @@ interchangeability and maintainability.
 **Available components**
 
 * [Acclimate](https://github.com/jeremeamia/acclimate-container)
+* [Aura.Di](https://github.com/auraphp/Aura.Di/tree/3.x)
 * [dcp-di](https://github.com/estelsmith/dcp-di)
 * [Mouf](http://mouf-php.com/)
 * [Njasm Container](https://github.com/njasm/container)
