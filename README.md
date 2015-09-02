@@ -3,7 +3,7 @@ PHP Contracts
 
 A curated list of mature interfaces to build components on.
 
-Join us in the Gitter chat room: [![Gitter chat](https://badges.gitter.im/rkrx/php-contracts.png)](https://gitter.im/rkrx/php-contracts)
+Join us in the Gitter chat room: [![Join the chat at https://gitter.im/rkrx/php-contracts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rkrx/php-contracts)
 
 Interfaces are still not very popular in the PHP-world. That is sad. They give you the ability to interchange components with the same interface.
 Good interfaces behave like a contract, a promise, a documentation. They don't have an opinion about the internals of a concrete implementation.
