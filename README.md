@@ -1,6 +1,8 @@
 PHP Contracts
 =============
 
+[![Join the chat at https://gitter.im/rkrx/php-contracts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rkrx/php-contracts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A curated list of mature interfaces to build components on.
 
 Join us in the Gitter chat room: [![Join the chat at https://gitter.im/rkrx/php-contracts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/rkrx/php-contracts)
