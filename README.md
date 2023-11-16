@@ -34,7 +34,7 @@ interchangeability and maintainability.
 | [psr/http-server-handler](https://github.com/php-fig/http-server-handler) | [![Latest Stable](http://img.shields.io/packagist/v/psr/http-message.svg)](https://packagist.org/packages/psr/http-server-handler) | [Compatible Packages](https://packagist.org/providers/psr/http-server-handler) |
 | [psr/link](https://github.com/php-fig/link) | [![Latest Stable](http://img.shields.io/packagist/v/psr/link.svg)](https://packagist.org/packages/psr/simple-cache) | [Compatible Packages](https://packagist.org/providers/psr/link-implementation) |
 | [psr/simple-cache](https://github.com/php-fig/simple-cache) | [![Latest Stable](http://img.shields.io/packagist/v/psr/simple-cache.svg)](https://packagist.org/packages/psr/simple-cache) | [Compatible Packages](https://packagist.org/providers/psr/simple-cache-implementation) |
-| [container-interop/container-interop](https://github.com/container-interop/container-interop) | [![Latest Stable](http://img.shields.io/packagist/v/container-interop/container-interop.svg)](https://packagist.org/packages/container-interop/container-interop) | [Compatible Packages](https://packagist.org/providers/container-interop/container-interop-implementation) |
+| [psr/container](https://github.com/php-fig/container) | [![Latest Stable](http://img.shields.io/packagist/v/psr/containser.svg)](https://packagist.org/packages/psr/container) | [Compatible Packages](https://packagist.org/providers/psr/container-implementation) |
 | [flamecore/event-observer](https://github.com/FlameCore/EventObserver) | [![Latest Stable](http://img.shields.io/packagist/v/flamecore/event-observer.svg)](https://packagist.org/packages/flamecore/event-observer) | Compatible Packages |
 
 ## Drafts
